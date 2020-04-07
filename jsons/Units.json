@@ -16,7 +16,7 @@
 		"hurryCostModifier": 20
                 "attackSound": "shot"
 	},
-  {
+        {
 		"name": "Buccaneer",
 		"unitType": "Melee",
                 "uniqueTo": "Freydonia",
