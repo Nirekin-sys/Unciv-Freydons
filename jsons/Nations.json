@@ -1,0 +1,30 @@
+[
+	{
+		"name": "Freydonia",
+		"leaderName": "Captain Freeman",
+		"adjective": ["Freydonians"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Cultural",
+		
+		"startIntroPart1": "May the blessings of heaven be upon you, O great Nebuchadnezzar, father of mighty and ancient Babylon! Young was the world when Sargon built Babylon some five thousand years ago, long did it grow and prosper, gaining its first empire the eighteenth century BC, under godlike Hammurabi, the giver of law. Although conquered by the Kassites and then by the Assyrians, Babylon endured, emerging phoenix-like from its ashes of destruction and regaining its independence despite its many enemies. Truly was Babylon the center of arts and learning in the ancient world. O Nebuchadnezzar, your empire endured but a short time after your death, falling to the mighty Persians, and then to the Greeks, until the great city was destroyed by 141 BC.",
+		"startIntroPart2": "But is Babylon indeed gone forever, great Nebuchadnezzar? Your people look to you to bring the empire back to life once more. Will you accept the challenge? Will you build a civilization that will stand the test of time?",
+		
+		"declaringWar": "It is time to share your wealth, my friend!",
+		"attacked": "Finally! Someone with some guts in all of the seas!",
+		"defeated": "Worry not, the world was already small for me...",
+		"introduction": "Weigh anchor! The greatest pirate has set foot here!",
+		
+		"neutralHello": "Good day to you, fellow sailor!",
+		"hateHello": "Yah, you're just another boring land-lubber.",
+		
+		"tradeRequest": "Savvy me this, mate?",
+				
+		"outerColor": [220,220,220],
+		"innerColor": [0,0,0],
+		"unique": "BARBARY_CORSAIRS",
+		"cities": ["Old Freydonia","Keelhaul Lagoon","Gunpowder Anchorage","New Freydonia","Whale Anchorage","Scurvy Refuge","Corsaria","Retreat of Nemo","Black Sand Bay","Cave of Cries",
+			"Blackbeard's Barter","Black Sand Reef","Cove of Wonders","Wealthy Cove","Atoll of Landlubbers","Monkey Atoll","Rum Haven","Bay of Shark Fin","Skull Lagoon","Craven Nest",
+			"New Sparrow","Silver Reef","Freeman's Hole","Bay of Gold","Old Salt Hideout","Bazaria","Sanctuary of Seadogs","Scuttle Reef","Dead Men's Town","Old Yonder",
+			"Booty Anchorage","Raven's Mark","Krakensholm","Libertatia","Crimson Dubloons","Dead End Cave","Trophy Refuge","Bucaneer's Bay","Yellow Mine","Free Cove"]
+	}
+]
