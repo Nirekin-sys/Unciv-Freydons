@@ -2,7 +2,7 @@
 	{
 		"name": "Sea Rover",
 		"unitType": "WaterMelee",
-    "replaces": "Frigate",
+                "replaces": "Frigate",
 		"uniqueTo": "Freydonia",
 		"movement": 6,
 		"strength": 20,
@@ -12,18 +12,18 @@
 		"requiredTech": "Navigation",
 		"obsoleteTech": "Electronics",
 		"upgradesTo": "Battleship",
-    "uniques": ["Bonus as Attacker [75]%"],
+                "uniques": ["Bonus as Attacker [75]%"],
 		"hurryCostModifier": 20
-    "attackSound": "shot"
+                "attackSound": "shot"
 	},
   {
 		"name": "Buccaneer",
-		"unitType": "WaterMelee",
-    "uniqueTo": "Freydonia",
+		"unitType": "Melee",
+                "uniqueTo": "Freydonia",
 		"replaces": "Settler"
-		"movement": 4,
-		"strength": 10,
-		"cost": 75,
+		"movement": 3,
+		"strength": 8,
+		"cost": 50,
 		"uniques": ["Founds a new city","Double movement in coast"],
 		"hurryCostModifier": 20,
 		"attackSound": "nonmetalhit"
