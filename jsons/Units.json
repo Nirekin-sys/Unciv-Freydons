@@ -21,9 +21,9 @@
 		"unitType": "Melee",
                 "uniqueTo": "Freydonia",
 		"replaces": "Settler"
-		"movement": 3,
-		"strength": 8,
-		"cost": 50,
+		"movement": 2,
+		"strength": 6,
+		"cost": 55,
 		"uniques": ["Founds a new city","Double movement in coast"],
 		"hurryCostModifier": 20,
 		"attackSound": "nonmetalhit"
